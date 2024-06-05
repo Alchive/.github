@@ -64,9 +64,9 @@ $docker compose up --build
 
 ## 👨‍👩‍👧‍👧 Member
 
-| Name  | <center> 송유림 </center> | <center> 김미영 </center> | <center> 조하나 </center> | <center> 박나현 </center> | 
+| Name  | <center>송유림</center> | <center>김미영</center> | <center>조하나</center> | <center>박나현</center> | 
 | :----- | :---------------------------------------: |:----------------------------------:| :---------------------------------------: | :----------------------------------------: |
-| Profile | <center> <img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/04721fc5-d693-4126-a4ec-b11c139b088e" /> </center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/c5d691c9-9d67-4e75-83aa-71dce2b69c7d" /></center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/f2931928-3dfd-489d-a706-5059d924b50a"/></center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/3a27007c-ff49-42ad-9e3e-14016d2bd320" /></center>|
+| Profile | <center> <img width="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/04721fc5-d693-4126-a4ec-b11c139b088e" /> </center>|<center><img width="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/c5d691c9-9d67-4e75-83aa-71dce2b69c7d" /></center>|<center><img width="110px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/f2931928-3dfd-489d-a706-5059d924b50a"/></center>|<center><img width="110px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/3a27007c-ff49-42ad-9e3e-14016d2bd320" /></center>|
 | role    | <center>Team Leader<br> Frontend <br> | <center> Frontend </center>  | <center> Backend <br> DevOps </center> | <center> Backend </center> |
 | GitHub | <center>[@youlimsongs](https://github.com/youlimsongs)</center> |<center>[@miyoung12](https://github.com/miyoung12)</center>| <center>[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;</center> | <center>[@nahowo](https://github.com/nahowo)</center> |
 
