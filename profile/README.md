@@ -1,6 +1,6 @@
 ## <p align = center>📚 나만의 알고리즘 저장소<p> 
 <div align=center>
-<br> <image width=50%, height=50%, src="https://github.com/Alchive/.github/assets/94193594/084983e8-8aa3-416f-b245-bf67bf543a65">
+<br> <image width=70%, height=70%, src="https://github.com/Alchive/.github/assets/94193594/084983e8-8aa3-416f-b245-bf67bf543a65">
 </div>
 <br><br>
 <div align=center><b>알고리즘 문제 저장 자동화 + 플랫폼 통합 관리 서비스</b><br><br><p>Alchive는 Algorithm과 Achive의 합성어로 코딩테스트를 준비하는 사람들에게 편리함을 제공하고 학습 효율을 높이는 서비스입니다.</p></div>
@@ -9,7 +9,7 @@
 ## 📹 Demo
 
 ### 👉 익스텐션 팝업
-<img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/19d67cf1-9a9e-40ca-a36c-33cf2254324f">
+<img width="1470" alt="" src="https://github.com/Alchive/.github/assets/132477328/671d30a0-ec1b-4f40-b44b-5abd08380424">
 <br>
 
 ### 👉 메인 페이지
@@ -17,7 +17,7 @@
 <br>
 
 ### 👉 문제 페이지
-<img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/0bf3bde1-1ea3-4c83-be0a-ef5d54ee8492">
+<img width="1470" alt="" src="https://github.com/Alchive/.github/assets/132477328/ffb35e35-72b1-4074-a395-4ea0f135eb74">
 <br><br><br>
 
 ## 📦 ERD
@@ -53,11 +53,31 @@ $ git clone
 ```
 ### env setting in the Settings folder 
 ```
-# backend .env
+# backend /.env
+MYSQL_ROOT_PASSWORD=
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_CHARSET=
+MYSQL_COLLATION=
+
+SPRING_DATASOURCE_URL=
+SPRING_DATASOURCE_PASSWORD=
+SPRING_PROFILES_ACTIVE=
 ```
-### Run Docker
 ```
-$docker compose up --build
+# backend /src/main/resources/env.properties
+MYSQL_URL=
+MYSQL_DATABASE=
+MYSQL_USERNAME=
+MYSQL_PASSWORD=
+
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+
+JWT_SECRET_KEY=
+ACCESS_EXPIRE_LENGTH=
+REFRESH_EXPIRE_LENGTH=
 ```
 <br><br><br>
 
