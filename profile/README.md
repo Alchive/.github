@@ -32,7 +32,8 @@
 <img alt="system architecture" src="https://github.com/Alchive-grad-work/.github/assets/94193594/5e91c32e-2c2a-4d47-8ab3-f59cad091999">
 <br><br><br>
 
-## 💡 Tech stack 
+## 💡 Tech stack
+<br>
 <div align =center>
 
 분야| 사용 기술|
