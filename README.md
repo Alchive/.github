@@ -1,17 +1,34 @@
 <div align=center>
-<br> <image width=50%, height=50%, src="">
+<br> <image width=50%, height=50%, src="https://github.com/Alchive-grad-work/.github/assets/94193594/75849e53-a3fa-4306-a5ba-5ad76a55e295">
 </div>
 
+## Alchive란?
+Alchive는 Algorithm과 Achive의 합성어로, 문제 저장을 자동화하고 여러 플랫폼의 다양한 문제를 보기 쉽게 관리하여 코딩테스트를 준비하는 사람들에게 편리함을 제공하고 학습 효율을 높이는 서비스입니다.
+<br><br>
+
 ## 📹 Demo
-### 🪐 메인페이지
-  <img width="1470" alt="" src="">
 
+### 👉 익스텐션 팝업
+<img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/19d67cf1-9a9e-40ca-a36c-33cf2254324f">
 
+### 👉 메인 페이지
+<img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/6a8321a8-1199-4175-b8bd-8162e8921012">
+
+### 👉 문제 페이지
+<img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/0bf3bde1-1ea3-4c83-be0a-ef5d54ee8492">
+<br><br>
+
+## 📦 ERD
+<img alt="ERD" src="https://github.com/Alchive-grad-work/.github/assets/94193594/1ce03493-4804-42e0-bae5-6158b4be3678">
+<br><br>
+
+## 📚 API
+<img alt="ERD" src="">
+<br><br>
 
 ## 💻 System Architechture
-<img alt="system architecture" src="">
-
-
+<img alt="system architecture" src="https://github.com/Alchive-grad-work/.github/assets/94193594/21eed664-4264-43f2-8086-0aaa9186d15f">
+<br><br>
 
 ## 💡 Tech stack 
 <div align =center>
@@ -23,23 +40,7 @@
 **DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Daphne-57BCAD?style=for-the-badge&logo=Daphne&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black">
 **etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
-
-
-## 💾 ERD
-
-<!--<img src="">-->
-<img width="1145" alt="ERD" src="">
-
-
-## 📚 API
-
-<!-- <details> -->
-<summary>swagger</summary>
-<div markdown="1">
-<img width="1307" alt="API" src="">
-  
-</div>
-<!-- </details> -->
+<br><br>
 
 
 ## 🚀 How to Start
