@@ -4,31 +4,33 @@
 
 ## Alchive란?
 Alchive는 Algorithm과 Achive의 합성어로, 문제 저장을 자동화하고 여러 플랫폼의 다양한 문제를 보기 쉽게 관리하여 코딩테스트를 준비하는 사람들에게 편리함을 제공하고 학습 효율을 높이는 서비스입니다.
-<br><br>
+<br><br><br>
 
 ## 📹 Demo
 
 ### 👉 익스텐션 팝업
 <img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/19d67cf1-9a9e-40ca-a36c-33cf2254324f">
+<br>
 
 ### 👉 메인 페이지
 <img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/6a8321a8-1199-4175-b8bd-8162e8921012">
+<br>
 
 ### 👉 문제 페이지
 <img width="1470" alt="" src="https://github.com/Alchive-grad-work/.github/assets/94193594/0bf3bde1-1ea3-4c83-be0a-ef5d54ee8492">
-<br><br>
+<br><br><br>
 
 ## 📦 ERD
 <img alt="ERD" src="https://github.com/Alchive-grad-work/.github/assets/94193594/1ce03493-4804-42e0-bae5-6158b4be3678">
-<br><br>
+<br><br><br>
 
 ## 📚 API
 <img alt="ERD" src="">
-<br><br>
+<br><br><br>
 
 ## 💻 System Architechture
 <img alt="system architecture" src="https://github.com/Alchive-grad-work/.github/assets/94193594/21eed664-4264-43f2-8086-0aaa9186d15f">
-<br><br>
+<br><br><br>
 
 ## 💡 Tech stack 
 <div align =center>
@@ -58,12 +60,13 @@ $ git clone
 ```
 $docker compose up --build
 ```
+<br><br><br>
 
 ## 👨‍👩‍👧‍👧 Member
 
-| Name  | <center>송유림</center> | <center>김미영</center> | <center>조하나</center> | <center>박나현</center> | 
+| Name  | <center> 송유림 </center> | <center> 김미영 </center> | <center> 조하나 </center> | <center> 박나현 </center> | 
 | :----- | :---------------------------------------: |:----------------------------------:| :---------------------------------------: | :----------------------------------------: |
-| Profile | <center> <img width="100px" height="100px" src="" /> </center>|<center><img width="100px" height="100px" src="" /></center>|<center><img width="100px" height="100px" src=""/></center>|<center><img width="100px" height="100px" src="" /></center>|
+| Profile | <center> <img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/04721fc5-d693-4126-a4ec-b11c139b088e" /> </center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/c5d691c9-9d67-4e75-83aa-71dce2b69c7d" /></center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/f2931928-3dfd-489d-a706-5059d924b50a"/></center>|<center><img width="100px" height="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/3a27007c-ff49-42ad-9e3e-14016d2bd320" /></center>|
 | role    | <center>Team Leader<br> Frontend <br> | <center> Frontend </center>  | <center> Backend <br> DevOps </center> | <center> Backend </center> |
 | GitHub | <center>[@youlimsongs](https://github.com/youlimsongs)</center> |<center>[@miyoung12](https://github.com/miyoung12)</center>| <center>[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;</center> | <center>[@nahowo](https://github.com/nahowo)</center> |
 
