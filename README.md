@@ -1,9 +1,9 @@
+## <p align = center>📚 나만의 알고리즘 저장소<p> 
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/Alchive-grad-work/.github/assets/94193594/75849e53-a3fa-4306-a5ba-5ad76a55e295">
 </div>
-
-## Alchive란?
-Alchive는 Algorithm과 Achive의 합성어로, 문제 저장을 자동화하고 여러 플랫폼의 다양한 문제를 보기 쉽게 관리하여 코딩테스트를 준비하는 사람들에게 편리함을 제공하고 학습 효율을 높이는 서비스입니다.
+<br><br>
+<div align=center><b>알고리즘 문제 저장 자동화 + 플랫폼 통합 관리 서비스</b><br><br><p>Alchive는 Algorithm과 Achive의 합성어로 코딩테스트를 준비하는 사람들에게 편리함을 제공하고 학습 효율을 높이는 서비스입니다.</p></div>
 <br><br><br>
 
 ## 📹 Demo
@@ -29,8 +29,7 @@ Alchive는 Algorithm과 Achive의 합성어로, 문제 저장을 자동화하고
 <br><br><br>
 
 ## 💻 System Architechture
-<img alt="system architecture" src="https://github.com/Alchive-grad-work/.github/assets/94193594/21eed664-4264-43f2-8086-0aaa9186d15f">
-<br><br><br>
+<img alt="system architecture" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/9a28cc5e-3575-4a8d-a0b6-24e6c8df89b6/c2fb09ae-e05c-4ba8-af41-4f28e707116d/Untitled.png">
 
 ## 💡 Tech stack 
 <div align =center>
@@ -51,10 +50,8 @@ Alchive는 Algorithm과 Achive의 합성어로, 문제 저장을 자동화하고
 $ git clone
 ```
 ### env setting in the Settings folder 
-* settings/.env
 ```
-# backend env
-
+# backend .env
 ```
 ### Run Docker
 ```
