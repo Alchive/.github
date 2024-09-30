@@ -21,15 +21,15 @@
 <br><br><br>
 
 ## 📦 ERD
-<img alt="ERD" src="https://github.com/Alchive-grad-work/.github/assets/94193594/1ce03493-4804-42e0-bae5-6158b4be3678">
+<img alt="ERD" src="https://github.com/user-attachments/assets/a57b69b3-f07d-462e-b98e-1f397a804483">
 <br><br><br>
 
 ## 📚 API
-<img alt="API" src="https://github.com/Alchive-grad-work/.github/assets/94193594/6daa5164-b5a2-4296-abc7-5bced0cb7599">
+<img alt="API" src="https://github.com/user-attachments/assets/a056deeb-1331-4748-9d01-e9939c46c34b">
 <br><br><br>
 
 ## 💻 System Architechture
-<img alt="system architecture" src="https://github.com/Alchive-grad-work/.github/assets/94193594/5e91c32e-2c2a-4d47-8ab3-f59cad091999">
+<img alt="system architecture" src="https://github.com/user-attachments/assets/a5880f60-2364-4e0a-976f-7ed3fe94eb11">
 <br><br><br>
 
 ## 💡 Tech stack
@@ -39,10 +39,10 @@
 분야| 사용 기술|
 :--------:|:------------------------------:|
 **Fronted** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/TailWindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/> 
-**Backend** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-**DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black"> <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"> <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
-**etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+**Backend** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/slack%20API-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+**DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white">
+**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black"> <img src="https://img.shields.io/badge/cadvisor-35495E?style=for-the-badge&logo=cadvisor&logoColor=white"> <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
+**etc** | ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
 <br><br>
 
@@ -84,9 +84,83 @@ REFRESH_EXPIRE_LENGTH=
 
 ## 👨‍👩‍👧‍👧 Member
 
-| Name  | <center>송유림</center> | <center>김미영</center> | <center>조하나</center> | <center>박나현</center> | 
-| :----- | :---------------------------------------: |:----------------------------------:| :---------------------------------------: | :----------------------------------------: |
-| Profile | <center> <img width="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/04721fc5-d693-4126-a4ec-b11c139b088e" /> </center>|<center><img width="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/c5d691c9-9d67-4e75-83aa-71dce2b69c7d" /></center>|<center><img width="100px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/f16bdb24-a866-4502-ad04-4bafd1f2d607"/></center>|<center><img width="105px" src="https://github.com/Alchive-grad-work/.github/assets/94193594/be162d88-5a6e-43e9-b4b9-ea0242a8e50e" /></center>|
-| role    | <center>Team Leader<br> Frontend <br> | <center> Frontend </center>  | <center> Backend <br> DevOps </center> | <center> Backend </center> |
-| GitHub | <center>[@youlimsongs](https://github.com/youlimsongs)</center> |<center>&nbsp;[@miyoung12](https://github.com/miyoung12)&nbsp;</center>| <center>&nbsp;&nbsp;[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;&nbsp;</center> | <center>&nbsp;&nbsp;[@nahowo](https://github.com/nahowo)&nbsp;&nbsp;</center> |
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">송유림</td>
+        <td width="100" align="center">김미영</td>
+        <td width="100" align="center">조하나</td>
+        <td width="100" align="center">박나현</td>
+    </tr>
+    <tr>
+        <th>Profile</th>
+         <td width="100" align="center">
+            <a href="https://github.com/youlimsongs">
+                <img src="https://github.com/Alchive-grad-work/.github/assets/94193594/04721fc5-d693-4126-a4ec-b11c139b088e">
+            </a>
+        </td>
+        <td width="100" align="center">
+             <a href="https://github.com/miyoung12">
+                <img src="https://github.com/Alchive-grad-work/.github/assets/94193594/c5d691c9-9d67-4e75-83aa-71dce2b69c7d">
+            </a>
+        </td>
+        <td width="100" align="center">
+             <a href="https://github.com/dlwhsk0">
+                <img src="https://github.com/Alchive-grad-work/.github/assets/94193594/f16bdb24-a866-4502-ad04-4bafd1f2d607">
+            </a>
+        </td>
+        <td width="100" align="center">
+             <a href="https://github.com/nahowo">
+                <img src="https://github.com/Alchive-grad-work/.github/assets/94193594/be162d88-5a6e-43e9-b4b9-ea0242a8e50e">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Position</th>
+        <td width="150" align="center">
+            Team Leader<br>
+            Frontend
+        </td>
+        <td width="150" align="center">
+            Frontend
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/youlimsongs">
+                <img src="http://img.shields.io/badge/youlimsongs-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/miyoung12">
+                <img src="http://img.shields.io/badge/miyoung12-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/dlwhsk0">
+                <img src="http://img.shields.io/badge/dlwhsk0-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/nahowo">
+                <img src="http://img.shields.io/badge/nahowo-green?style=social&logo=github"/>
+            </a>
+        </td>
+     </tr>
+    </tbody>
+</table>
+
+
 </div>
